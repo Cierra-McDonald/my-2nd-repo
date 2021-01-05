@@ -10,7 +10,8 @@ Things I have learned:
 2) It's *okay* to ask for *help* when confused 
 3) Take **deep** *breaths*, learning is emotional
 
-	| Syntax | Description |
+| Table | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
