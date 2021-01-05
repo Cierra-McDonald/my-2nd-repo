@@ -9,3 +9,8 @@ Things I have learned:
 1) It's **okay** to be __confused__
 2) It's *okay* to ask for *help* when confused 
 3) Take **deep** *breaths*, learning is emotional
+
+	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
